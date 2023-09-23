@@ -7,7 +7,7 @@
     "react-dom": "^16.4.1",
     "react-scripts": "^5.0.1"
   },
-  "homepage": ".",
+  "homepage": "https://ishmael.azurewebsites.net/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
