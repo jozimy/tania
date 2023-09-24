@@ -58,4 +58,4 @@ jobs:
           app-name: 'ishmael'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_96660BC7B36747B9BD7C12B8D8F5F7EC }}
-          package: .
+          package: release.zip
